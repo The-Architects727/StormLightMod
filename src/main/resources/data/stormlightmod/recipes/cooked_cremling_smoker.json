@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient": {
+        "item": "stormlightmod:raw_cremling_meat"
+    },
+    "result": "stormlightmod:cooked_cremling_meat",
+    "experience": 0.3,
+    "cookingtime": 200
+}

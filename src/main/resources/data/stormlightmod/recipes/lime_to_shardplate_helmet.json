@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:lime_shardplate_helm"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:shardplate_helm",
+        "count": 1
+    }
+}

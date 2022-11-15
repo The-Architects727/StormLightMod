@@ -1,0 +1,11 @@
+{
+  "type": "stormlightmod:voidlight_infusing",
+  "ingredients": [
+    {
+      "item": "stormlightmod:topaz_sphere"
+    }
+  ],
+  "output": {
+    "item": "stormlightmod:void_infused_topaz_sphere"
+  }
+}

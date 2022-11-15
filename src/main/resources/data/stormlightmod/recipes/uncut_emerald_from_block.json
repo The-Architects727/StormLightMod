@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "stormlightmod:uncut_emerald_block"
+    }
+  ],
+  "result": {
+    "item": "stormlightmod:uncut_emerald",
+    "count": 9
+  }
+}

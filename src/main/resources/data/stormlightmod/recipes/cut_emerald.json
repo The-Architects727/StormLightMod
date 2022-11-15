@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stormlightmod:uncut_emerald"
+  },
+  "result": "stormlightmod:cut_emerald",
+  "count": 1
+}

@@ -1,0 +1,20 @@
+{
+    "structures": [
+      {
+        "structure": "stormlightmod:oak_geode_structure",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1476209053,
+      "locate_offset": [
+        0,
+        0,
+        0
+      ],
+      "spread_type": "linear",
+      "spacing": 2,
+      "separation": 1
+    }
+  }

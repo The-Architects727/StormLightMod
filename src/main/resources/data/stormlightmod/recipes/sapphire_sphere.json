@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "stormlightmod:cut_sapphire"
+    }
+  },
+  "result": {
+    "item": "stormlightmod:sapphire_sphere",
+    "count": 1
+  }
+}

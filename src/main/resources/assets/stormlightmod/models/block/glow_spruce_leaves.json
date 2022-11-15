@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "stormlightmod:block/glow_spruce_leaves"
+  }
+}

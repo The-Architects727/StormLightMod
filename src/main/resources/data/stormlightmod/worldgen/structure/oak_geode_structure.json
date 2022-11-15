@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#stormlightmod:has_structure/braize_structure_biomes",
+  "step": "underground_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "bury",
+  "start_pool": "stormlightmod:oak_geode_start_pool",
+  "size": 1,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": -64
+    },
+    "max_inclusive": {
+      "absolute": 30
+    }
+  },
+  "max_distance_from_center": 20,
+  "use_expansion_hack": false
+}

@@ -1,0 +1,214 @@
+{
+  "item.stormlightmod.uncut_sapphire": "Uncut Sapphire",
+  "item.stormlightmod.uncut_emerald": "Uncut Emerald",
+  "item.stormlightmod.uncut_smokestone": "Uncut Smokestone",
+  "item.stormlightmod.uncut_ruby": "Uncut Ruby",
+  "item.stormlightmod.uncut_garnet": "Uncut Garnet",
+  "item.stormlightmod.uncut_zircon": "Uncut Zircon",
+  "item.stormlightmod.uncut_topaz": "Uncut Topaz",
+  "item.stormlightmod.uncut_heliodor": "Uncut Heliodor",
+
+  "item.stormlightmod.cut_sapphire": "Cut Sapphire",
+  "item.stormlightmod.cut_smokestone": "Cut Smokestone",
+  "item.stormlightmod.cut_ruby": "Cut Ruby",
+  "item.stormlightmod.cut_diamond": "Cut Diamond",
+  "item.stormlightmod.cut_emerald": "Cut Emerald",
+  "item.stormlightmod.cut_garnet": "Cut Garnet",
+  "item.stormlightmod.cut_zircon": "Cut Zircon",
+  "item.stormlightmod.cut_amethyst": "Cut Amethyst",
+  "item.stormlightmod.cut_topaz": "Cut Topaz",
+  "item.stormlightmod.cut_heliodor": "Cut Heliodor",
+
+  "item.stormlightmod.sapphire_sphere": "Sapphire Sphere",
+  "item.stormlightmod.smokestone_sphere": "Smokestone Sphere",
+  "item.stormlightmod.ruby_sphere": "Ruby Sphere",
+  "item.stormlightmod.diamond_sphere": "Diamond Sphere",
+  "item.stormlightmod.emerald_sphere": "Emerald Sphere",
+  "item.stormlightmod.garnet_sphere": "Garnet Sphere",
+  "item.stormlightmod.zircon_sphere": "Zircon Sphere",
+  "item.stormlightmod.amethyst_sphere": "Amethyst Sphere",
+  "item.stormlightmod.topaz_sphere": "Topaz Sphere",
+  "item.stormlightmod.heliodor_sphere": "Heliodor Sphere",
+
+  "item.stormlightmod.infused_sapphire_sphere": "Infused Sapphire Sphere",
+  "item.stormlightmod.infused_smokestone_sphere": "Infused Smokestone Sphere",
+  "item.stormlightmod.infused_ruby_sphere": "Infused Ruby Sphere",
+  "item.stormlightmod.infused_diamond_sphere": "Infused Diamond Sphere",
+  "item.stormlightmod.infused_emerald_sphere": "Infused Emerald Sphere",
+  "item.stormlightmod.infused_garnet_sphere": "Infused Garnet Sphere",
+  "item.stormlightmod.infused_zircon_sphere": "Infused Zircon Sphere",
+  "item.stormlightmod.infused_amethyst_sphere": "Infused Amethyst Sphere",
+  "item.stormlightmod.infused_topaz_sphere": "Infused Topaz Sphere",
+  "item.stormlightmod.infused_heliodor_sphere": "Infused Heliodor Sphere",
+
+  "item.stormlightmod.void_infused_sapphire_sphere": "Void Infused Sapphire Sphere",
+  "item.stormlightmod.void_infused_smokestone_sphere": "Void Infused Smokestone Sphere",
+  "item.stormlightmod.void_infused_ruby_sphere": "Void Infused Ruby Sphere",
+  "item.stormlightmod.void_infused_diamond_sphere": "Void Infused Diamond Sphere",
+  "item.stormlightmod.void_infused_emerald_sphere": "Void Infused Emerald Sphere",
+  "item.stormlightmod.void_infused_garnet_sphere": "Void Infused Garnet Sphere",
+  "item.stormlightmod.void_infused_zircon_sphere": "Void Infused Zircon Sphere",
+  "item.stormlightmod.void_infused_amethyst_sphere": "Void Infused Amethyst Sphere",
+  "item.stormlightmod.void_infused_topaz_sphere": "Void Infused Topaz Sphere",
+  "item.stormlightmod.void_infused_heliodor_sphere": "Void Infused Heliodor Sphere",
+
+  "item.stormlightmod.raw_cremling_meat": "Raw Cremling Meat",
+  "item.stormlightmod.cooked_cremling_meat": "Cooked Cremling Meat",
+
+  "item.stormlightmod.carapace_sword": "Carapace Sword",
+  "item.stormlightmod.carapace_axe": "Carapace Axe",
+  "item.stormlightmod.carapace_pickaxe": "Carapace Pickaxe",
+  "item.stormlightmod.carapace_shovel": "Carapace Shovel",
+  "item.stormlightmod.carapace_hoe": "Carapace Hoe",
+
+  "item.stormlightmod.carapace_helm": "Carapace Helm",
+  "item.stormlightmod.carapace_chestplate": "Carapace Chestplate",
+  "item.stormlightmod.carapace_leggings": "Carapace Leggings",
+  "item.stormlightmod.carapace_boots": "Carapace Boots",
+
+  "item.stormlightmod.oathbringer": "Oathbringer",
+
+  "item.stormlightmod.shardplate_helm": "Unornamented ShardPlate Helm",
+  "item.stormlightmod.shardplate_chestplate": "Unornamented ShardPlate Chestplate",
+  "item.stormlightmod.shardplate_leggings": "Unornamented ShardPlate Leggings",
+  "item.stormlightmod.shardplate_boots": "Unornamented ShardPlate Boots",
+
+  "item.stormlightmod.grey_shardplate_helm": "Grey ShardPlate Helm",
+  "item.stormlightmod.grey_shardplate_chestplate": "Grey ShardPlate Chestplate",
+  "item.stormlightmod.grey_shardplate_leggings": "Grey ShardPlate Leggings",
+  "item.stormlightmod.grey_shardplate_boots": "Grey ShardPlate Boots",
+
+  "item.stormlightmod.light_grey_shardplate_helm": "Light Grey ShardPlate Helm",
+  "item.stormlightmod.light_grey_shardplate_chestplate": "Light Grey ShardPlate Chestplate",
+  "item.stormlightmod.light_grey_shardplate_leggings": "Light Grey ShardPlate Leggings",
+  "item.stormlightmod.light_grey_shardplate_boots": "Light Grey ShardPlate Boots",
+
+  "item.stormlightmod.white_shardplate_helm": "White ShardPlate Helm",
+  "item.stormlightmod.white_shardplate_chestplate": "White ShardPlate Chestplate",
+  "item.stormlightmod.white_shardplate_leggings": "White ShardPlate Leggings",
+  "item.stormlightmod.white_shardplate_boots": "White ShardPlate Boots",
+
+  "item.stormlightmod.orange_shardplate_helm": "Orange ShardPlate Helm",
+  "item.stormlightmod.orange_shardplate_chestplate": "Orange ShardPlate Chestplate",
+  "item.stormlightmod.orange_shardplate_leggings": "Orange ShardPlate Leggings",
+  "item.stormlightmod.orange_shardplate_boots": "Orange ShardPlate Boots",
+
+  "item.stormlightmod.magenta_shardplate_helm": "Magenta ShardPlate Helm",
+  "item.stormlightmod.magenta_shardplate_chestplate": "Magenta ShardPlate Chestplate",
+  "item.stormlightmod.magenta_shardplate_leggings": "Magenta ShardPlate Leggings",
+  "item.stormlightmod.magenta_shardplate_boots": "Magenta ShardPlate Boots",
+
+  "item.stormlightmod.lime_shardplate_helm": "Lime ShardPlate Helm",
+  "item.stormlightmod.lime_shardplate_chestplate": "Lime ShardPlate Chestplate",
+  "item.stormlightmod.lime_shardplate_leggings": "Lime ShardPlate Leggings",
+  "item.stormlightmod.lime_shardplate_boots": "Lime ShardPlate Boots",
+
+  "item.stormlightmod.green_shardplate_helm": "Green ShardPlate Helm",
+  "item.stormlightmod.green_shardplate_chestplate": "Green ShardPlate Chestplate",
+  "item.stormlightmod.green_shardplate_leggings": "Green ShardPlate Leggings",
+  "item.stormlightmod.green_shardplate_boots": "Green ShardPlate Boots",
+
+  "item.stormlightmod.light_blue_shardplate_helm": "Light Blue ShardPlate Helm",
+  "item.stormlightmod.light_blue_shardplate_chestplate": "Light Blue ShardPlate Chestplate",
+  "item.stormlightmod.light_blue_shardplate_leggings": "Light Blue ShardPlate Leggings",
+  "item.stormlightmod.light_blue_shardplate_boots": "Light Blue ShardPlate Boots",
+
+  "item.stormlightmod.blue_shardplate_helm": "Blue ShardPlate Helm",
+  "item.stormlightmod.blue_shardplate_chestplate": "Blue ShardPlate Chestplate",
+  "item.stormlightmod.blue_shardplate_leggings": "Blue ShardPlate Leggings",
+  "item.stormlightmod.blue_shardplate_boots": "Blue ShardPlate Boots",
+
+  "item.stormlightmod.red_shardplate_helm": "Red ShardPlate Helm",
+  "item.stormlightmod.red_shardplate_chestplate": "Red ShardPlate Chestplate",
+  "item.stormlightmod.red_shardplate_leggings": "Red ShardPlate Leggings",
+  "item.stormlightmod.red_shardplate_boots": "Red ShardPlate Boots",
+
+  "item.stormlightmod.yellow_shardplate_helm": "Yellow ShardPlate Helm",
+  "item.stormlightmod.yellow_shardplate_chestplate": "Yellow ShardPlate Chestplate",
+  "item.stormlightmod.yellow_shardplate_leggings": "Yellow ShardPlate Leggings",
+  "item.stormlightmod.yellow_shardplate_boots": "Yellow ShardPlate Boots",
+
+  "item.stormlightmod.pink_shardplate_helm": "Pink ShardPlate Helm",
+  "item.stormlightmod.pink_shardplate_chestplate": "Pink ShardPlate Chestplate",
+  "item.stormlightmod.pink_shardplate_leggings": "Pink ShardPlate Leggings",
+  "item.stormlightmod.pink_shardplate_boots": "Pink ShardPlate Boots",
+
+  "item.stormlightmod.cyan_shardplate_helm": "Cyan ShardPlate Helm",
+  "item.stormlightmod.cyan_shardplate_chestplate": "Cyan ShardPlate Chestplate",
+  "item.stormlightmod.cyan_shardplate_leggings": "Cyan ShardPlate Leggings",
+  "item.stormlightmod.cyan_shardplate_boots": "Cyan ShardPlate Boots",
+
+  "item.stormlightmod.purple_shardplate_helm": "Purple ShardPlate Helm",
+  "item.stormlightmod.purple_shardplate_chestplate": "Purple ShardPlate Chestplate",
+  "item.stormlightmod.purple_shardplate_leggings": "Purple ShardPlate Leggings",
+  "item.stormlightmod.purple_shardplate_boots": "Purple ShardPlate Boots",
+
+  "item.stormlightmod.black_shardplate_helm": "Black ShardPlate Helm",
+  "item.stormlightmod.black_shardplate_chestplate": "Black ShardPlate Chestplate",
+  "item.stormlightmod.black_shardplate_leggings": "Black ShardPlate Leggings",
+  "item.stormlightmod.black_shardplate_boots": "Black ShardPlate Boots",
+
+  "item.stormlightmod.brown_shardplate_helm": "Brown ShardPlate Helm",
+  "item.stormlightmod.brown_shardplate_chestplate": "Brown ShardPlate Chestplate",
+  "item.stormlightmod.brown_shardplate_leggings": "Brown ShardPlate Leggings",
+  "item.stormlightmod.brown_shardplate_boots": "Brown ShardPlate Boots",
+
+
+
+  "item.stormlightmod.cremling_spawn_egg": "Cremling Spawn Egg",
+  "item.stormlightmod.sky_eel_spawn_egg": "Sky Eel Spawn Egg",
+  "item.stormlightmod.chull_spawn_egg": "Chull Spawn Egg",
+  "item.stormlightmod.warform_femalen_spawn_egg": "Warform Femalen Spawn Egg",
+  "item.stormlightmod.warform_malen_spawn_egg": "Warform Malen Spawn Egg",
+
+  "item.stormlightmod.rock_illusion": "Rock Illusion",
+  "item.stormlightmod.oak_tree_illusion": "Oak Tree Illusion",
+
+  "item.stormlightmod.guide_rod": "Guide Rod",
+
+  "block.stormlightmod.sapphire_ore": "Sapphire Ore",
+  "block.stormlightmod.emerald_ore": "Emerald Ore",
+  "block.stormlightmod.smokestone_ore": "Smokestone Ore",
+  "block.stormlightmod.ruby_ore": "Ruby Ore",
+  "block.stormlightmod.garnet_ore": "Garnet Ore",
+  "block.stormlightmod.zircon_ore": "Zircon Ore",
+  "block.stormlightmod.topaz_ore": "Topaz Ore",
+  "block.stormlightmod.heliodor_ore": "Heliodor Ore",
+
+  "block.stormlightmod.uncut_emerald_block": "Uncut Emerald Block",
+
+  "block.stormlightmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.stormlightmod.deepslate_emerald_ore": "Deepslate Emerald Ore",
+  "block.stormlightmod.deepslate_smokestone_ore": "Deepslate Smokestone Ore",
+  "block.stormlightmod.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.stormlightmod.deepslate_garnet_ore": "Deepslate Garnet Ore",
+  "block.stormlightmod.deepslate_zircon_ore": "Deepslate Zircon Ore",
+  "block.stormlightmod.deepslate_topaz_ore": "Deepslate Topaz Ore",
+  "block.stormlightmod.deepslate_heliodor_ore": "Deepslate Heliodor Ore",
+  "block.stormlightmod.charcoal_block": "Block of Charcoal",
+  "block.stormlightmod.voidstone": "Voidstone",
+
+  "block.stormlightmod.glow_acacia_leaves": "Bioluminescent Acacia Leaves",
+  "block.stormlightmod.glow_acacia_sapling": "Bioluminescent Acacia Sapling",
+  "block.stormlightmod.glow_birch_leaves": "Bioluminescent Birch Leaves",
+  "block.stormlightmod.glow_birch_sapling": "Bioluminescent Birch Sapling",
+  "block.stormlightmod.glow_dark_oak_leaves": "Bioluminescent Dark Oak Leaves",
+  "block.stormlightmod.glow_dark_oak_sapling": "Bioluminescent Dark Oak Sapling",
+  "block.stormlightmod.glow_jungle_leaves": "Bioluminescent Jungle Leaves",
+  "block.stormlightmod.glow_jungle_sapling": "Bioluminescent Jungle Sapling",
+  "block.stormlightmod.glow_oak_leaves": "Bioluminescent Oak Leaves",
+  "block.stormlightmod.glow_oak_sapling": "Bioluminescent Oak Sapling",
+  "block.stormlightmod.glow_spruce_leaves": "Bioluminescent Spruce Leaves",
+  "block.stormlightmod.glow_spruce_sapling": "Bioluminescent Spruce Sapling",
+
+  "block.stormlightmod.voidlight_infuser_block": "Voidlight Infuser",
+
+  "itemGroup.stormlightmod.stormlight_items": "Stormlight Items",
+  "itemGroup.stormlightmod.stormlight_blocks": "Stormlight Blocks",
+  "itemGroup.stormlightmod.stormlight_equipables": "Stormlight Equipables",
+
+
+
+
+  "item.stormlightmod.soap_water_bucket": "Soap Water Bucket"
+}

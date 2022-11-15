@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "stormlightmod:cut_zircon"
+    }
+  },
+  "result": {
+    "item": "stormlightmod:zircon_sphere",
+    "count": 1
+  }
+}

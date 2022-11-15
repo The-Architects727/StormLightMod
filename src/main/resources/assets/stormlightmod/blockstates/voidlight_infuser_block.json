@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "stormlightmod:block/voidlight_infuser_block"
+    },
+    "facing=south": {
+      "model": "stormlightmod:block/voidlight_infuser_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "stormlightmod:block/voidlight_infuser_block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "stormlightmod:block/voidlight_infuser_block",
+      "y": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "stormlightmod:voidlight_infusing",
+  "ingredients": [
+    {
+      "item": "stormlightmod:heliodor_sphere"
+    }
+  ],
+  "output": {
+    "item": "stormlightmod:void_infused_heliodor_sphere"
+  }
+}

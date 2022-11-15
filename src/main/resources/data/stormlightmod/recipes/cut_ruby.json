@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stormlightmod:uncut_ruby"
+  },
+  "result": "stormlightmod:cut_ruby",
+  "count": 1
+}

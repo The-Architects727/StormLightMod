@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:shardplate_boots"
+        },
+        "R": {
+            "item": "minecraft:green_dye"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:green_shardplate_boots",
+        "count": 1
+    }
+}

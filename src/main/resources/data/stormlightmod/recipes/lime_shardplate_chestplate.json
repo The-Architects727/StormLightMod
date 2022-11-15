@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:shardplate_chestplate"
+        },
+        "R": {
+            "item": "minecraft:lime_dye"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:lime_shardplate_chestplate",
+        "count": 1
+    }
+}

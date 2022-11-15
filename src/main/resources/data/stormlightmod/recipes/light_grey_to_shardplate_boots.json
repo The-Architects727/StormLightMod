@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:light_grey_shardplate_boots"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:shardplate_boots",
+        "count": 1
+    }
+}

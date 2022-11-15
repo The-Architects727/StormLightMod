@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stormlightmod:uncut_smokestone"
+  },
+  "result": "stormlightmod:cut_smokestone",
+  "count": 1
+}

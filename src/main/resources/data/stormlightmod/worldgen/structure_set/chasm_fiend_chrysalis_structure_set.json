@@ -1,0 +1,19 @@
+{
+  "structures": [
+    {
+      "structure": "stormlightmod:chasm_fiend_chrysalis_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 744794275,
+    "locate_offset": [
+      0,
+      -3,
+      0
+    ],
+    "spacing": 30,
+    "separation": 15
+  }
+}

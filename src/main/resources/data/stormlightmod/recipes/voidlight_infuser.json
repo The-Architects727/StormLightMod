@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iSi",
+        "iVi",
+        "NNN"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "S": {
+            "item": "minecraft:stone_pressure_plate"
+        },
+        "V": {
+            "item": "stormlightmod:voidstone"
+        },
+        "N": {
+            "item": "minecraft:nether_brick"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:voidlight_infuser_block",
+        "count": 1
+    }
+}

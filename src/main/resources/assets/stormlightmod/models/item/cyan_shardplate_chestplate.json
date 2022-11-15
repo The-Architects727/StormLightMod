@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "stormlightmod:item/cyan_shardplate_chestplate"
+  }
+}

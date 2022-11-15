@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "stormlightmod:block/glow_jungle_sapling"
+  }
+}

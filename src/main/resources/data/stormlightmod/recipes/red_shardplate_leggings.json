@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:shardplate_leggings"
+        },
+        "R": {
+            "item": "minecraft:red_dye"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:red_shardplate_leggings",
+        "count": 1
+    }
+}

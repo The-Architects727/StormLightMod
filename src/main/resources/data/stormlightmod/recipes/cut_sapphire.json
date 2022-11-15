@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stormlightmod:uncut_sapphire"
+  },
+  "result": "stormlightmod:cut_sapphire",
+  "count": 1
+}

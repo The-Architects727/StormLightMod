@@ -1,0 +1,15 @@
+{
+  "name": "stormlightmod:chasm_fiend_chrysalis_start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "stormlightmod:chasm_fiend_chrysalis",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

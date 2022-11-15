@@ -1,0 +1,11 @@
+{
+  "type": "stormlightmod:voidlight_infusing",
+  "ingredients": [
+    {
+      "item": "stormlightmod:ruby_sphere"
+    }
+  ],
+  "output": {
+    "item": "stormlightmod:void_infused_ruby_sphere"
+  }
+}

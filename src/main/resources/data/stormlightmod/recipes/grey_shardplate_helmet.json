@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#R"
+    ],
+    "key": {
+        "#": {
+            "item": "stormlightmod:shardplate_helm"
+        },
+        "R": {
+            "item": "minecraft:gray_dye"
+        }
+    },
+    "result": {
+        "item": "stormlightmod:grey_shardplate_helm",
+        "count": 1
+    }
+}

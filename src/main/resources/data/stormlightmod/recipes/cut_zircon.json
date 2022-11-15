@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stormlightmod:uncut_zircon"
+  },
+  "result": "stormlightmod:cut_zircon",
+  "count": 1
+}

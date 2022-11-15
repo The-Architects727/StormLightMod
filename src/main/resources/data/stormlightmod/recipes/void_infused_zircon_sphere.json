@@ -1,0 +1,11 @@
+{
+  "type": "stormlightmod:voidlight_infusing",
+  "ingredients": [
+    {
+      "item": "stormlightmod:zircon_sphere"
+    }
+  ],
+  "output": {
+    "item": "stormlightmod:void_infused_zircon_sphere"
+  }
+}
